@@ -8,6 +8,7 @@ Having [set up your Go environment](http://golang.org/doc/install), simply insta
     go get github.com/cratonica/embedder
 
 Then, use by
+    
     $GOPATH/bin/embedder main /path/to/files > resource.go
 
 For more details, refer to the [embed](http://github.com/cratonica/embed) library.
