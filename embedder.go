@@ -1,5 +1,7 @@
 // Tool for generating Go source files containing embedded resources,
 // leveraging the library at http://github.com/cratonica/embed
+//
+// http://github.com/cratonica/embedder
 package main
 
 import (
